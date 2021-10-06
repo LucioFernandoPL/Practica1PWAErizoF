@@ -1,0 +1,51 @@
+{
+    "name": "#ErizoFriends",
+    "short_name": "#ErizoFriends",
+    "description": "Esta es una página PWA sobre Erizos",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/icon_1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon_180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon_120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon_87.png",
+            "sizes": "87x87",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon_60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon_40.png",
+            "sizes": "40x40",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon.png",
+            "sizes": "29x29",
+            "type": "image/png"
+        }
+    ]
+}
